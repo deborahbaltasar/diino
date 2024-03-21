@@ -1,5 +1,5 @@
-import animationData from './assets/Pensativo.json'
-// import Lottie from 'react-lottie'
+import animationData from './assets/Neutro.json'
+
 import Lottie from "lottie-react";
 import { Smile, Calendar, Menu } from 'react-feather';
 
